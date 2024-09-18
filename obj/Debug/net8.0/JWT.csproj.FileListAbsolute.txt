@@ -19,3 +19,4 @@ D:\prila\JWT\JWT\obj\Debug\net8.0\refint\JWT.dll
 D:\prila\JWT\JWT\obj\Debug\net8.0\JWT.pdb
 D:\prila\JWT\JWT\obj\Debug\net8.0\JWT.genruntimeconfig.cache
 D:\prila\JWT\JWT\obj\Debug\net8.0\ref\JWT.dll
+D:\prila\JWT\JWT\obj\Debug\net8.0\JWT.sourcelink.json
